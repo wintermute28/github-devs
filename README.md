@@ -1,1 +1,3 @@
-# TypeScript курс. Проект GitHub user finder
+# Project GitHub user finder
+
+Technologies: React + TypeScript.
